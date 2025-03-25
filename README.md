@@ -1,1 +1,1 @@
-# WikiTrain
+# WikiMind
